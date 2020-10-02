@@ -12,3 +12,21 @@ ex:  baseURL: 'http://192.168.0.14:3333'
 
 IP da maquina:
 - hostname -I
+
+# Navegação
+[React Navigation](https://reactnavigation.org/docs/getting-started)
+
+Importante!
+Para usuarios mac é importante fazer algumas configurações extras.
+- Intalar o [CocoaPods](https://cocoapods.org/). Apois a instalação siga os passos a seguir:
+ 
+ Entre na pasta IOS na raíz do seu projeto. 
+ ``
+  cd ios
+  
+  pod install
+ ``
+ Após fazer as instalações que pedem na documentação oficial do [React Navigation](https://reactnavigation.org/docs/getting-started), faça um reload da sua aplicação.
+ 
+ 
+ 
