@@ -29,4 +29,7 @@ Para usuarios mac é importante fazer algumas configurações extras.
  Após fazer as instalações que pedem na documentação oficial do [React Navigation](https://reactnavigation.org/docs/getting-started), faça um reload da sua aplicação.
  
  
- 
+``
+yarn add @react-navigation/stack
+``
+
