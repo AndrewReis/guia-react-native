@@ -1,3 +1,6 @@
+# Iniciando projeto com Typescript
+
+yarn react-native init usecamera --template react-native-template-typescript
 
 
 # Axios
